@@ -8,7 +8,27 @@ We make the following badge to show others that we are from Vietnam, and we are 
 
 ## Badges
 
+Those are the badges that have been well-designed by our members and how to add them to your repository. Pick one of your favorite.
 
+[![From Vietnam with <3](https://raw.githubusercontent.com/webuild-community/badge/master/svg/love.svg)](https://webuild.community) [![Made in Vietnam](https://raw.githubusercontent.com/webuild-community/badge/master/svg/made.svg)](https://webuild.community) [![Built with WeBuild](https://raw.githubusercontent.com/webuild-community/badge/master/svg/WeBuild.svg)](https://webuild.community)
+
+- For Markdown:
+
+   ```
+   [![Made in Vietnam](https://raw.githubusercontent.com/webuild-community/badge/master/svg/made.svg)](https://webuild.community)
+   ```
+
+- For HTML:
+
+   ```
+   <a href="https://webuild.community"><img src="https://raw.githubusercontent.com/webuild-community/badge/master/svg/made.svg" /></a>
+   ```
+
+- For Org-mode:
+
+   ```
+   [[https://webuild.community][file:https://raw.githubusercontent.com/webuild-community/badge/master/svg/made.svg]]
+   ```
 
 ## Join the community
 
