@@ -15,19 +15,25 @@ Those are the badges that have been well-designed by our members and how to add 
 - For Markdown:
 
    ```
+   [![From Vietnam with <3](https://raw.githubusercontent.com/webuild-community/badge/master/svg/love.svg)](https://webuild.community)
    [![Made in Vietnam](https://raw.githubusercontent.com/webuild-community/badge/master/svg/made.svg)](https://webuild.community)
+   [![Built with WeBuild](https://raw.githubusercontent.com/webuild-community/badge/master/svg/WeBuild.svg)](https://webuild.community)
    ```
 
 - For HTML:
 
    ```
+   <a href="https://webuild.community"><img src="https://raw.githubusercontent.com/webuild-community/badge/master/svg/love.svg" /></a>
    <a href="https://webuild.community"><img src="https://raw.githubusercontent.com/webuild-community/badge/master/svg/made.svg" /></a>
+   <a href="https://webuild.community"><img src="https://raw.githubusercontent.com/webuild-community/badge/master/svg/WeBuild.svg" /></a>
    ```
 
 - For Org-mode:
 
    ```
+   [[https://webuild.community][file:https://raw.githubusercontent.com/webuild-community/badge/master/svg/love.svg]]
    [[https://webuild.community][file:https://raw.githubusercontent.com/webuild-community/badge/master/svg/made.svg]]
+   [[https://webuild.community][file:https://raw.githubusercontent.com/webuild-community/badge/master/svg/WeBuild.svg]]
    ```
 
 ## Join the community
