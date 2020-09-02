@@ -20,7 +20,7 @@
     font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
     text-rendering="geometricPrecision" font-size="100"
   >
-    <text fill="#fff" x="130" y="175" transform="scale(.1)">BY</text>
+    <text fill="#fff" x="140" y="175" transform="scale(.1)">BY</text>
     <text fill="#fff" x="920" y="175" font-weight="bold" transform="scale(.1)">VIETNAMESE</text>
   </g>
 </svg>
