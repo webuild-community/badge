@@ -1,0 +1,26 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  height="28"
+  role="img"
+  aria-label="BY: VIETNAMESE"
+>
+  <g shape-rendering="crispEdges">
+    <rect width="30.5" height="28" fill="#555"/>
+    <rect x="30.5" width="110" height="28" fill="#F03030"/>
+  </g>
+  <path
+    xmlns="http://www.w3.org/2000/svg"
+    d="M36.7395 8.81703L34.1114 8.45204L32.9364 6.17607C32.9043 6.11375 32.8516 6.06331 32.7864 6.03264C32.6228 5.95549 32.4241 6.01979 32.3422 6.17607L31.1674 8.45204L28.5392 8.81703C28.4668 8.82692 28.4005 8.85956 28.3498 8.90902C28.2885 8.96924 28.2547 9.05026 28.2558 9.13428C28.257 9.2183 28.2931 9.29844 28.356 9.35709L30.2576 11.1286L29.8083 13.6301C29.7977 13.6883 29.8044 13.7481 29.8278 13.8029C29.851 13.8576 29.8898 13.905 29.9399 13.9397C29.9898 13.9744 30.049 13.995 30.1106 13.9992C30.1723 14.0034 30.2339 13.991 30.2886 13.9634L32.6393 12.7824L34.9901 13.9634C35.0544 13.9961 35.1289 14.007 35.2003 13.9951C35.3804 13.9654 35.5015 13.8022 35.4705 13.6301L35.0212 11.1286L36.9227 9.35709C36.9745 9.30862 37.0086 9.24532 37.019 9.17608C37.0469 9.00298 36.9206 8.84275 36.7395 8.81703Z"
+    fill="#FFD500"
+    transform="translate(12, 3)"/>
+  <g
+    fill="#fff"
+    text-anchor="middle"
+    font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+    text-rendering="geometricPrecision" font-size="100"
+  >
+    <text fill="#fff" x="130" y="175" transform="scale(.1)">BY</text>
+    <text fill="#fff" x="920" y="175" font-weight="bold" transform="scale(.1)">VIETNAMESE</text>
+  </g>
+</svg>
